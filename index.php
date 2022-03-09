@@ -50,7 +50,7 @@ $searchStatement->closeCursor();
 
 <body>
 <header>
-    <h1><a href="index.php">Beanie Babie Shop</a></h1>
+    <h1><a href="index.php">Beanie Baby Shop</a></h1>
     <h5 id="admin-header"><a href="admin_login_form.php">Admin</a></h5>
     <h6 id="cust_orders" style="float:right; padding-top: 5px;"><a href="all_customer_orders.php">See All Orders</a></h6>
 </header>
