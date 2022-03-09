@@ -1,0 +1,108 @@
+
+html {
+    background-color: white;
+}
+body {
+    margin-top: 0;
+    font-family: American Typewriter, serif;
+    width: 95%;
+    margin: 0 auto;
+    background-color: white;
+    padding: .5em 2em;
+}
+header {
+    margin: 0;
+    border-bottom: 2px solid black;
+}
+header h1 {
+    margin: 0;
+    padding: .5em 0;
+    color: black;
+}
+main {
+    margin: 0;
+}
+aside {
+    float: left;
+    width: 150px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+nav ul li {
+    padding-bottom: 0.5em;
+}
+
+footer {
+    clear: both;
+    margin-top: 1em;
+    border-top: 2px solid black;
+}
+footer p {
+    text-align: right;
+    font-size: 80%;
+    margin: 1em 0;
+}
+h1 {
+    font-size: 150%;
+    margin: 0;
+    padding: .5em 0 .25em;
+}
+h2 {
+    font-size: 120%;
+    margin: 0;
+    padding: .25em 0 .5em;
+}
+h1, h2 {
+    color: rgb(83, 112, 243);
+}
+ul {
+    margin: 0 0 1em 0;
+    padding: 0 0 0 2.5em;
+}
+li {
+    margin: 0;
+    padding: 0;
+}
+a {
+    color: rgb(51, 124, 41);
+    font-weight: bold;
+}
+a:hover {
+    color: rgb(4, 201, 208);
+}
+
+form {
+    margin: 0;
+}
+br {
+    clear: left;
+}
+
+h4 {
+    color: red;
+}
+
+.custAlert {
+    color: green;
+}
+
+#add_product_bttn {
+    color: gray;
+}
+
+#cust_orders {
+    float: right;
+}
+
+
+
+.right {
+    text-align: right;
+}
+.last_paragraph {
+	margin-bottom: 2em;	
+}
